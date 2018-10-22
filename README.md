@@ -13,5 +13,8 @@ Modify nxlog.conf for your environment und copy it to nxlog installation path in
 ## Links
 
 https://github.com/reighnman/Graylog_Content_Pack_WinDNS
+
 https://github.com/ion-storm/sysmon-config
+
 https://2code-monte.co.uk/2018/04/29/enable-windows-firewall-logging/
+
