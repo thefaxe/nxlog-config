@@ -13,6 +13,7 @@ Modify nxlog.conf for your environment und copy it to nxlog installation path in
 ## Files
 
 nxlog.conf => prepared for graylog and gelf
+
 nxlog2syslog => prepared for sending to syslog in snare forward for fortigate siem
 
 
