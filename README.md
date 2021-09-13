@@ -10,6 +10,12 @@ Splitting outputs for Sysmon Events from Windows Events in nxlog
 
 Modify nxlog.conf for your environment und copy it to nxlog installation path in \conf folder
 
+## Files
+
+nxlog.conf => prepared for graylog and gelf
+nxlog2syslog => prepared for sending to syslog in snare forward for fortigate siem
+
+
 ## Links
 
 https://github.com/reighnman/Graylog_Content_Pack_WinDNS
